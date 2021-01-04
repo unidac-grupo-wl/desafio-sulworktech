@@ -31,3 +31,4 @@ Lista de participantes com suas opções
 # Envio do Desafio
 
 Deverá ser hospedado no heroku ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github.
+Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
