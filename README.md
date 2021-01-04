@@ -11,7 +11,7 @@ A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para 
 Ex. Fulano de Tal, CPF: 732.442.160-13 e Suco de Acerola.
 
 Utilizar SQL para inserção, atualização, consulta e exclusão.
-Não poderá repetir cpf
+Não poderá repetir cpf.
 Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
 Implemente utilizando a linguagem Java com a IDE eclipse.
 
