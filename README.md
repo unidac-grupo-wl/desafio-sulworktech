@@ -10,7 +10,7 @@ A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para 
 
 Ex. Fulano de Tal, CPF: 732.442.160-13 e Suco de Acerola.
 
-Utilizar SQL para inserção, atualização, consulta e exclusão.
+Utilizar NativeQuery para inserção, atualização, consulta e exclusão.
 <br/>
 Não poderá repetir cpf.
 <br/>
