@@ -16,11 +16,13 @@ Não poderá repetir cpf.
 <br/>
 Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
 <br/>
-Implemente utilizando a linguagem Java com a IDE eclipse.
+Implemente utilizando a linguagem Java com a IDE eclipse ou STS
 
 # Layout
 
 Utilize a criatividade e monte um layout amigavel.
+<br/>
+Livre o Front
 
 # Telas Obrigatórias
 
