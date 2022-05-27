@@ -12,9 +12,11 @@ Ex. Fulano de Tal, CPF: 732.442.160-13 e Suco de Acerola.
 
 Utilizar NativeQuery para inserção, atualização, consulta e exclusão.
 <br/>
-Não poderá repetir cpf.
+Não poderá repetir cpf e deverá ser válido com 11 posições.
 <br/>
 Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
+<br/>
+Exibir mensagens de validações.
 <br/>
 Implemente utilizando a linguagem Java com a IDE eclipse ou STS
 
