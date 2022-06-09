@@ -18,7 +18,7 @@ Não poderá repetir opção de café da manhã mesmo que seja outro colaborador
 <br/>
 Exibir mensagens de validações.
 <br/>
-Implemente utilizando a linguagem Java com a IDE eclipse ou STS
+Implemente utilizando a linguagem Java com a IDE eclipse ou STS ou VS.
 
 # Layout
 
