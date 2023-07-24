@@ -12,7 +12,7 @@ No dia em questão o aplicação abrira a opção de marcar se o colaborador tro
 
 A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para o café da manha. O colaborador poderá trazer mais de um opção para o café da manhã.
 
-Ex. Fulano de Tal, CPF: 732.442.160-13, Suco de Acerola e Data: 01/05/2023.
+Ex. Fulano de Tal, CPF: 124.786.171-09, Suco de Acerola e Data: 01/05/2023.
 
 Utilizar NativeQuery (SQL) para inserção, atualização, consulta e exclusão.
 <br/>
