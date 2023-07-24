@@ -20,7 +20,8 @@ Não poderá repetir colaborador.
 <br/>
 Não poderá repetir cpf e deverá ser válido com 11 posições.
 <br/>
-Não poderá repetir opção de café da manhã mesmo que seja outro colaborador.
+Não poderá repetir opção de café da manhã mesmo que seja outro colaborador na mesma data. 
+Ex. João, CPF: 732.442.160-13, Queijo e Data: 01/05/2023. A Maria vai participar no dia 01/05/2023 e não poderá trazer queijo mas no café do dia 03/05/2023 poderá trazer.
 <br/>
 A data de realização do café deverá ser maior que a data atual.
 <br/>
