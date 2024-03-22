@@ -1,4 +1,4 @@
-# Desafio Unidac - Grupo WL
+# Desafio Unidac - Sulwork Tech
 
 Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
