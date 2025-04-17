@@ -1,4 +1,4 @@
-# Desafio Sulwork Tech
+# Desafio Sulwork
 
 Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (API REST).
 
