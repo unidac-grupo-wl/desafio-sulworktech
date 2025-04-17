@@ -10,7 +10,7 @@ Sempre há pessoas que querem trazer pão, bolo, suco...
 
 A aplicação deverá ter o nome do colaborador, cpf, o que será trazido para o café da manha, e a data que a ser realizado o café. O colaborador poderá trazer mais de um opção para o café da manhã.
 
-No dia em questão o aplicação abrira a opção de marcar se o colaborador trouxe ou não a opção, se passar a data marcar que este colaborardor não trouxe
+No dia em questão o aplicação abrira a opção de marcar se o colaborador trouxe ou não a opção, se passar a data marcar que este colaborador não trouxe
 
 A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para o café da manha. O colaborador poderá trazer mais de um opção para o café da manhã.
 
