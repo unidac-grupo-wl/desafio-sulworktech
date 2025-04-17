@@ -16,6 +16,8 @@ A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para 
 
 Ex. Fulano de Tal, CPF: 124.786.171-09, Suco de Acerola e Data: 01/05/2023.
 
+Requisitos Técnicos:
+
 Utilizar NativeQuery (SQL) para inserção, atualização, consulta e exclusão.
 <br/>
 Uso de Design Patterns
@@ -26,6 +28,9 @@ Testes unitários e de integração para o backend utilizando JUnit5.
 <br/>
 Testes de interface e e2e no frontend utilizando Jasmine, Jest Protractor ou Cypress.(Escolha Livre)
 <br/>
+
+Requisitos Funcionais:
+
 Não poderá repetir colaborador.
 <br/>
 Não poderá repetir cpf e deverá ser válido com 11 posições.
