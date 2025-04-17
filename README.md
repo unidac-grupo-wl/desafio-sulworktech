@@ -28,6 +28,8 @@ Testes unitários e de integração para o backend utilizando JUnit5.
 <br/>
 Testes de interface e e2e no frontend utilizando Jasmine, Jest Protractor ou Cypress.(Escolha Livre)
 <br/>
+Implemente utilizando a linguagem Java com a IDE eclipse ou STS ou VS.
+<br/>
 
 Requisitos Funcionais:
 
@@ -42,8 +44,7 @@ Ex. João, CPF: 732.442.160-13, Queijo e Data: 01/05/2023. A Maria vai participa
 A data de realização do café deverá ser maior que a data atual.
 <br/>
 Exibir mensagens objetivas de validações.
-<br/>
-Implemente utilizando a linguagem Java com a IDE eclipse ou STS ou VS.
+
 
 # Layout
 
