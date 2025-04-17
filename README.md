@@ -4,7 +4,7 @@ Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
 Sempre há pessoas que querem trazer pão, bolo, suco...
 
-Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (REST).
+Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (REST) + Uso de Docker
 
 A aplicação deverá ter o nome do colaborador, cpf, o que será trazido para o café da manha, e a data que a ser realizado o café. O colaborador poderá trazer mais de um opção para o café da manhã.
 
@@ -52,9 +52,9 @@ Lista de participantes com suas opções
 
 # Envio do Desafio
 
-1) #Código Fonte#: README detalhado sobre como rodar o projeto no github
-2) #Documentação da API#: Utilize Swagger ou outra ferramenta para documentar os endpoints.
-3) #Instruções de Deploy#: Forneça um guia simples de como executar o sistema localmente.
+1) Código Fonte: README detalhado sobre como rodar o projeto no github.
+2) Documentação da API: Utilize Swagger ou outra ferramenta para documentar os endpoints.
+3) Instruções de Deploy: Forneça um guia simples de como executar o sistema localmente.
 
 Deverá ser hospedado no railway ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github.
 Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
