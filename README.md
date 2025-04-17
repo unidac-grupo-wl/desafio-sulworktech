@@ -2,7 +2,7 @@
 
 Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (API REST).
 
-Uso de Docker para Dockerfile com o front-end e back-end, subir as imagens no Docker Hub e criar um docker-compose.yml com: Back-end, Front-end e Banco de dados.
+Uso de Docker para Dockerfile com o front-end e back-end.
 
 Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
@@ -57,6 +57,7 @@ Lista de participantes com suas opções
 1) Código Fonte: README detalhado sobre como rodar o projeto no github.
 2) Documentação da API: Utilize Swagger ou outra ferramenta para documentar os endpoints.
 3) Instruções de Deploy: Forneça um guia simples de como executar o sistema localmente.
+4) Docker: Criar um arquivo docker-compose.yml para levantar os serviços do frontend, backend e do banco de dados.
 
 Deverá ser hospedado no railway ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github.
 Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
