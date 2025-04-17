@@ -4,7 +4,9 @@ Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
 Sempre há pessoas que querem trazer pão, bolo, suco...
 
-Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (API REST) + Uso de Docker
+Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (API REST).
+
+Uso de Docker para Dockerfile com o front-end e back-end, subir as imagens no Docker Hub e criar um docker-compose.yml com: Back-end, Front-end e Banco de dados.
 
 A aplicação deverá ter o nome do colaborador, cpf, o que será trazido para o café da manha, e a data que a ser realizado o café. O colaborador poderá trazer mais de um opção para o café da manhã.
 
