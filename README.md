@@ -4,7 +4,7 @@ Realizamos café da manhã constantemente e sempre há conflito no merge kkkk
 
 Sempre há pessoas que querem trazer pão, bolo, suco...
 
-Nesse desafio é necessário que seja montando uma aplicação web (front a sua escolha) com backend em JAVA (REST).
+Nesse desafio é necessário que seja montando uma aplicação web Angular como framework frontend e backend em Spring Boot (REST).
 
 A aplicação deverá ter o nome do colaborador, cpf, o que será trazido para o café da manha, e a data que a ser realizado o café. O colaborador poderá trazer mais de um opção para o café da manhã.
 
@@ -15,6 +15,14 @@ A aplicação deverá ter o nome do colaborador, cpf e o que será trazido para 
 Ex. Fulano de Tal, CPF: 124.786.171-09, Suco de Acerola e Data: 01/05/2023.
 
 Utilizar NativeQuery (SQL) para inserção, atualização, consulta e exclusão.
+<br/>
+Uso de Design Patterns
+<br/>
+Clean Code
+<br/>
+Testes unitários e de integração para o backend utilizando JUnit5.
+<br/>
+Testes de interface e e2e no frontend utilizando Jasmine, Jest Protractor ou Cypress.(Escolha Livre)
 <br/>
 Não poderá repetir colaborador.
 <br/>
@@ -43,6 +51,10 @@ Crud de Cadastro
 Lista de participantes com suas opções
 
 # Envio do Desafio
+
+1) #Código Fonte#: README detalhado sobre como rodar o projeto no github
+2) #Documentação da API#: Utilize Swagger ou outra ferramenta para documentar os endpoints.
+3) #Instruções de Deploy#: Forneça um guia simples de como executar o sistema localmente.
 
 Deverá ser hospedado no railway ou outro servidor de aplicação e disponibilizado o link da aplicação + o link no github.
 Lembrando que este teste não é eliminatório serve apenas para avaliar seu nível de conhecimento :)
